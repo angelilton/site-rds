@@ -1,2 +1,2 @@
 # site-rds
-o objetivo de criação nesse site foi para aprimorar os meu conhecimento de html e css básicos 
+o objetivo de criação desse site foi para aprimorar os meu conhecimento de html e css básicos 
